@@ -7,7 +7,7 @@
 <h3 align="center">Hello! Welcome to my profile. I'm Satria Wiguna, currently studying Informatics Engineering at Politeknik Negeri Malang.</h3>
 
 ###
-
+---
 <p align="left">🧩My Speciality :</p>
 
 ###
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
-
+---
 ###
 
 <p align="left">Checkout My Stats 😉</p>
@@ -43,7 +43,10 @@
 </div>
 
 ###
-
+<p align="left">Wow So Many Visit</p>
+![](https://komarev.com/ghpvc/?username=AuroraSauces)
+###
+---
 <h3 align="center">It’s the end, but that’s okay every encounter comes with a farewell. See you next time. 👋</h3>
 
 ###
